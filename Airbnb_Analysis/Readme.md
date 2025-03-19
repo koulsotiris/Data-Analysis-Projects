@@ -1,13 +1,13 @@
-Airbnb Listings Analysis 
+# Airbnb Listings Analysis 
 
-Overview
+## Overview
 This project analyzes Airbnb listings across major European cities to identify trends in rental availability.
 
-Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib (optional for visualization)
 - CSV data processing
 
-Data
+## Data
 The dataset includes Airbnb listing data from multiple cities. The script loads and processes CSV files for each city.
